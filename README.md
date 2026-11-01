@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Devesh Sahu 👋
 
-<!--
-**devesh-sahu17/devesh-sahu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate with an interest in Data Analytics and Data Science. I enjoy working with data, identifying patterns, and turning raw information into meaningful insights that support better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my analytical and technical skills through hands-on projects and continuous learning.
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Excel, NumPy, pandas
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Other Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Development
+
+### 📊 Featured Projects
+
+**1. AstroSage Call Center Analysis – Excel**
+
+Analyzed call center operations, agent performance, customer satisfaction, repeat callers, and revenue patterns.
+
+[View Project on GitHub](https://github.com/devesh-sahu17/AstroSage-Call-Center-Analysis)
+
+**2. Columbia Asia Hospital Analysis – SQL & Power BI**
+
+Analyzed hospital operations, patient visits, waiting times, department performance, patient demographics, and revenue.
+
+[View Project on GitHub](https://github.com/devesh-sahu17/Columbia-Asia-Hospital-Analysis)
+
+**3. RCB IPL Strategy Analysis – SQL**
+
+Analyzed RCB's team and player performance, venue statistics, season-wise trends, and match strategies using MySQL.
+
+[View Project on GitHub](https://github.com/devesh-sahu17/RCB---IPL-Strategy---SQL)
+
+### 🎓 Education
+
+**B.Tech in Computer Science and Engineering**  
+SSIPMT, Raipur | CSVTU
+
+### 📚 Currently Learning
+
+- Python for Data Analysis
+- Exploratory Data Analysis
+- Statistics and Machine Learning
+
+### 🤝 Connect With Me
+
+- **GitHub:** [devesh-sahu17](https://github.com/devesh-sahu17)
+- **LinkedIn:** (https://www.linkedin.com/in/devesh-sahu-878941253/)
+
+---
+
+*Always learning, building, and improving through data.*
